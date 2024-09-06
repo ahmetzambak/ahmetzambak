@@ -1,4 +1,6 @@
-![Contributions Badge](https://img.shields.io/badge/Contributions-AirDatepicker-blue)
+## Contributions
+
+[![Contributions](https://img.shields.io/badge/Contributions-AirDatepicker-blue)](https://github.com/t1m0n/air-datepicker/commits?author=ahmetzambak)
 <!--
 **ahmetzambak/ahmetzambak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
